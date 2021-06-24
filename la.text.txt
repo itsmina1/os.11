@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\title{}
+\author{Mina Adham}z
+\date{June 2021}
+\begin{document}
+\maketitle
+
+
+\begin{center}
+\includegraphics[scale=0.5]{pic1.png}
+\end{center}
+
+\section{My Biography:}
+   feild:computer engineering
+
+university:sadjad university of technology
+
+        interest in:UI/UX Design/php/Qoantum physics
+
+\section{table}
+\begin{tabular}{c|c}
+\hline
+name     & mina \\
+lastname     & adham \\
+\hline
+\end{tabular}
+\section{Formulas}
+ Albert Einstein's theory :
+ 
+$E=m*c^2$
+\section{code}
+\begin{lstlisting} [language=php]
+
+<?php
+
+echo 'hi, im mina';
+?> 
+\end{lstlisting}
+\end{document}
